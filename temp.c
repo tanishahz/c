@@ -10,6 +10,7 @@ int main()
         str[i] = n%10 + 48 ;
         n=n/10;
     }
+   
     str[10] = '\0';
     printf("%s",str);
     return 0;
