@@ -1,0 +1,2 @@
+/* Define function that recieves weight of a commodity in kilograms and the returns
+the equevalent   */
